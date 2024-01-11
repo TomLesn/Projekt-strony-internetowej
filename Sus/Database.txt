@@ -1,0 +1,5 @@
+CREATE TABLE Login(
+	id int AUTO_INCREMENT PRIMARY KEY,
+    login varchar(50),
+    password_ varchar(50)
+);
